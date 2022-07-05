@@ -1,0 +1,11 @@
+hard code password for root
+	A3002RU
+version:V3.0.0-B20220304.1804
+
+Description:
+There is a hard code password for root in /etc/shadow.sample
+
+Source:
+you can download it from : https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/221/ids/36.html
+
+Analyse:
